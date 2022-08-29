@@ -2,4 +2,6 @@ This is our readme file.
 
 ## Collaborators
   - Spencer H
-  - Annie P 
+  - Annie P
+  - Jessica
+  - Stephen
